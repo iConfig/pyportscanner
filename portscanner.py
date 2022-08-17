@@ -1,14 +1,3 @@
-
-# Todo
-
-# make it faster
-# Option to safe result to file
-# show services running on open Ports
-# get os versions of services running on open ports
-# color result(green)
-# automatically install required libraries on sys
-# Quit with q key 
-
 import argparse  
 import sys
 import socket
