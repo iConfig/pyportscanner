@@ -1,2 +1,2 @@
 # pyscripts
-some python scripts
+Basic python port scanner 
