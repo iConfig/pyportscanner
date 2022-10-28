@@ -1,3 +1,8 @@
+MOTIVATION 
+
+I created this to improve my python skills... and I'm working on improving it's performance as well 
+
+
 FEATURES
 - tcp scanner 
 - user can provide number of ports to scan using  '-p'
@@ -9,4 +14,4 @@ USAGE
 - run portscanner.py -h for help 
 
 GET 
-git clone 
+ - git clone https://github.com/iconfig/pyportscanner
